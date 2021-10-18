@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "jungpu37",
+      "gpus": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "local_size": 8,
+      "start_rank": 0
+    }
+  ],
+  "world_size": 8
+}
