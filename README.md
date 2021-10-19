@@ -11,13 +11,13 @@
 - Real image: 
 
 <div align="center">
-<img height="300px" height="auto" src="./docs/images/0.png">
+<img width="600px" height="auto" src="./docs/images/0.png">
 </div>
 
 - Fake image:
 
 <div align="center">
-<img height="300px" height="auto" src="./docs/images/1.png">
+<img width="600px" height="auto" src="./docs/images/1.jpeg">
 </div>
 
 ### Install
