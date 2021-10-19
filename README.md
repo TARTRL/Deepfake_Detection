@@ -10,11 +10,15 @@
 
 - Real image: 
 
-![](./docs/images/0.png)
+<div align="center">
+<img height="300px" height="auto" src="./docs/images/0.png">
+</div>
 
 - Fake image:
 
-![](./docs/images/1.jpeg)
+<div align="center">
+<img height="300px" height="auto" src="./docs/images/1.png">
+</div>
 
 ### Install
 - Python 3+
@@ -30,7 +34,7 @@ cd scripts
 ### Testing
 You need download the pretrained model from BaiduYun:
 
-Download link: https://pan.baidu.com/s/16NIV5BVUITKwolQzPbj9Zw  Password:`r3i8`
+Download link:   Password:`r3i8`
 
 And put the model(`model_half.pth.tar`) 
 under `./models`. Then you can run python script as below:
